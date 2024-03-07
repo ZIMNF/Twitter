@@ -1,0 +1,44 @@
+{
+  "tweets": [
+    {
+      "id": "1",
+      "name": "Budi",
+      "tweet": "haloo"
+    },
+    {
+      "id": "2",
+      "name": "rendy",
+      "tweet": "astaagaaaa"
+    },
+    {
+      "id": "3",
+      "name": "toni",
+      "tweet": "hadehhhhh"
+    },
+    {
+      "id": "2fe6",
+      "name": "qfqw",
+      "tweet": "af\n"
+    },
+    {
+      "id": "b402",
+      "name": "fqw",
+      "tweet": "vewvwe"
+    },
+    {
+      "id": "fe33",
+      "name": "cek 1",
+      "tweet": "pislad"
+    },
+    {
+      "id": "ca15",
+      "name": "cek 2",
+      "tweet": "cwek"
+    },
+    {
+      "id": "43df",
+      "name": "cekkk2",
+      "tweet": "fqw;w"
+    }
+  ]
+}
