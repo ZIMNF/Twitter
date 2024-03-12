@@ -20,7 +20,7 @@ function InnerForm(props: FormikProps<FormValues>) {
         {values.tweet.length > 0 && <Box>{values.tweet.length} characters </Box>}
         {touched.tweet && errors.tweet && <Box as="span">{errors.tweet}</Box>}
       </FormControl>
-      <Button type="submit" mt={5} colorScheme="twitter" disabled={isSubmitting || values.tweet.length > 50}>
+      <Button type="submit" mt={5} colorScheme="twitter" isDisabled={isSubmitting || values.tweet.length > 50}>
         Submit
       </Button>
     </Form>
